@@ -23,7 +23,7 @@ This way you and other people can track the journey of the robot and command the
 Important messages, as few as possible, such as when the appointment appears and is available, and rarely errors, are sent to the `channel_id` where you can also add friends to be warned.
 
 ## Dependencies
-See `requirements.txt' for Python packages
+See `requirements.txt` for Python packages
 
 System library `tesseract` is needed.
 On Mac you can install it with `brew install tesseract`, and specify its executable path in `utils.py`.
